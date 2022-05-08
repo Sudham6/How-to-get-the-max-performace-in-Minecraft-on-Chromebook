@@ -66,6 +66,35 @@ Okay startoing off
 9. Then press sudo enter-chroot *IF* you left the chroot shell
 10. type xinit now 
 
-# Now you are all set hope this helps 
-12. it shoudl take you to the text file you created beofre
-13. 
+# Now you are all set with device settings moving on to minecraft settings (If you still want more fps)
+
+
+You still want more fps and you dont know what minecraft and lunar cleint setttings are the best for you?
+
+Dont worry i am going to give you two files that are going to automatically chnage all the settings and give more fps.
+
+
+
+
+First of all, go to .minecraft in the kde neon desktop (sudo startplasma)
+
+You should see three .txt documents called : options.txt , optionsof.txt and optionsLC.txt  
+
+1.  Download these three modified files : [options.txt](https://github.com/Sudham6/How-to-get-the-max-performace-in-Minecraft-on-Chromebook/files/8647317/options.txt) 
+                                         [optionsof.txt](https://github.com/Sudham6/How-to-get-the-max-performace-in-Minecraft-on-Chromebook/files/8647327/optionsof.txt)
+                                          [optionsLC.txt](https://github.com/Sudham6/How-to-get-the-max-performace-in-Minecraft-on-Chromebook/files/8647328/optionsLC.txt)
+2. after downloading all these files delete your  options.txt , optionsof.txt and optionsLC.txt   and paste these there and restart your minecraft and you will have these settings 
+
+
+
+
+
+
+
+## Just in case these do not work you have to mannualy change these settings yourself
+
+
+
+Copy down these in minecraft video settings 
+
+                
