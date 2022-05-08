@@ -97,4 +97,97 @@ You should see three .txt documents called : options.txt , optionsof.txt and opt
 
 Copy down these in minecraft video settings 
 
-                
+
+Graphics : FAST
+Smooth Lighting : off
+Smooth lighting level : Completly low or off (Same thing)
+Gui scale : (Doesnt matter)
+Brightness :  Doesnt matter
+Dynamic lighting: OFF
+Render distance: 2 
+Max framerate : Unlimited 
+View bobbing: Doesnt matter 
+Use VBOs : On 
+Alternate blocks : On 
+Dynamic Fov : Doesnt matter
+
+
+
+
+**Go to Details in video settings and cop down **
+
+Clouds : OFF
+Tress :  Fast
+Sky : OFF
+Sun & Moon : OFF
+Fog : OFF
+Transluscnet blocks :  FAST
+Dropped Items: FAST
+Vignette :  FAST
+Swamp colors :  OFF
+Cloud Height : COmpletly Low or OFF (Same thing)
+Rain & Snow : OFF
+Stars : OFF
+Show Capes: OFF
+Fog start : 0.2
+Held Items Tool tips :  DOesnt matter
+Entity Shadows : OFF
+Alternate Blocks : ON
+Smooth Biomes : OFF
+
+**Exit of details and Go into Animations**
+
+Press All off 
+
+**Exit out of aniamtions and go into QUaltiy (Really important)**
+
+ Mip Map levels :  COmpletly low or off (Same thing)
+ Anisotropic Filtering : Completely Low or off (Same thing)
+ Clear Water : On 
+ Better Grass : Off
+ Custom Fonts: On
+ Connected textures : Off
+ Custom sky : OFF
+ Custom Entity Models : On
+ Emissive Textures : Off
+  Mip Map type : Nearest or Lowest (Same thing)
+  Antialising levels : Off or completely low (Same thing)
+  Random entities : off
+  Better snow : Off
+  Custom colors : on
+  Natural Textures : Off
+  Custom items : off
+  Custom GUi models: off
+  
+  
+  **Exit off quality and go into performance**
+  
+  Smooth Fps : OFF
+  Fast Render : ON
+  Chunk updates : 1
+  Render Regions : On
+  Smart Animations : On 
+  Smooth World : Off
+  Fast Math : On 
+  Dynamic Updates : On
+  Lazy Chunk loading : On
+  
+  
+ **Go To other and turn off weather and set save time to 24 min**
+ 
+ 
+ # Now Lunar settings
+ 
+ 
+ Go to mods click settings and then performace and set lazy chunk loading to lowest (Lowest means fastest )
+ 
+ And set Entity and tile entity to lowest
+ 
+ Turn of shadows Go to genral in settings and then turn of all Cosemtic options
+ 
+ 
+ 
+ 
+ 
+ 
+# THANK YOU SO MUCH THATS THE END HAVE A GOOD EXPECRIENCE PLAYING MC
